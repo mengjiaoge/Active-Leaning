@@ -1,2 +1,2 @@
 # Active-Leaning
-Active Learning with supervised learning method on ASAP data set.
+Autmated Essay Scoring With Active Leanring.
