@@ -1,2 +1,2 @@
 # Active-Leaning
-Active Leaning with supervised learning on ASAP data set
+Active Learning with supervised learning method on ASAP data set.
